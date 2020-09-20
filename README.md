@@ -2,5 +2,5 @@
 
 ### Hello :wave:
 
-:link: <https://tree-diagram.site> (not available yet)
+:link: <https://tree-diagram.site> (currently under construction)
 
